@@ -1,0 +1,1 @@
+"# mindrabbit-_class" 
